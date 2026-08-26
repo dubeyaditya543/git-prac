@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 fav color: green
 fve color: blue again
 
+=======
+fav color green again
+>>>>>>> green-branch
